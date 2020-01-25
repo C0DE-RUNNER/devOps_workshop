@@ -8,4 +8,4 @@ def pig_latin(word):
         pig_word = word[1:] + word[0] + 'ay'
     return pig_word
 
-print(pig_latin('TAJ'))
+print(pig_latin('yooo!!'))
